@@ -1,4 +1,4 @@
-# List of ressources to reduce our digital energy footprint
+# List of resources to reduce our digital energy footprint
 
 The Internet consumes about 8% of the electricity produced in the world and emits about 3% of greenhouse gases.
 
